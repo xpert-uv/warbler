@@ -2,6 +2,7 @@
 This is twiter clone. Features like posting, following, likeing post has been included. Even though it is Fullstack Application, it is backend heavy.
 
 #######################################################################
+
 Tech Stack:
 
 Frontend: HTML/CSS
