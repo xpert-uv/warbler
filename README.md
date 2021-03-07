@@ -1,11 +1,11 @@
 # warbler
-This is twiter clone. Features like posting, following, likeing post has been included. Even though it is Fullstack Application, it is backend heavy.
+This is twiter clone. Features like posting, following, liking post has been included. Even though it is Fullstack Application, it is backend heavy.
 
 #######################################################################
 
 Tech Stack:
 
-Frontend: HTML/CSS
+Frontend: HTML,CSS,BootStrap, JQuery
 
 Backend: Python-Flask farmework (WTForms, Bcrypt, Jinja, SQlAlchemy)
 
